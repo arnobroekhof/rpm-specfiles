@@ -1,0 +1,9 @@
+SPEC files for the follwing packages:
+
+mcollective
+ruby
+facter
+puppet
+
+
+supported os: centos 5 and redhat 5
